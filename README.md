@@ -4,7 +4,6 @@
 
 ## **I am DiceFlip**
 - 🌱 I’m currently learning **Python** and **Javascript**.
-- 🔭 I’m currently working on **A Customizable Pong Game**.
 - 🔧 I have worked on several **Among Us mods** in the past.
 - 🎮 **Game Development** is currently my hobby.
 - 🤖 I have also worked on **Discord Bots**.
